@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c04ef9c8-70af-4b75-baa8-7295dbf54774" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLesson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_homework/MainClassFromHomeworkLesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainClassFromLesson2">
+  <component name="RunManager" selected="Application.MainClassFromHomeworkLesson2">
+    <configuration name="MainClassFromHomeworkLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2_homework.MainClassFromHomeworkLesson2" />
+      <module name="java_exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClassFromLesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.MainClassFromLesson1" />
       <module name="java_exceptions" />
@@ -71,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClassFromHomeworkLesson2" />
         <item itemvalue="Application.MainClassFromLesson2" />
         <item itemvalue="Application.MainClassFromLesson1" />
       </list>
