@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c04ef9c8-70af-4b75-baa8-7295dbf54774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/MainClassFromLesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MainClassFromLesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLesson2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainClassFromLesson2">
     <configuration name="MainClassFromLesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.MainClassFromLesson1" />
       <module name="java_exceptions" />
@@ -58,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClassFromLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.MainClassFromLesson2" />
+      <module name="java_exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClassFromLesson2" />
         <item itemvalue="Application.MainClassFromLesson1" />
       </list>
     </recent_temporary>
