@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c04ef9c8-70af-4b75-baa8-7295dbf54774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_homework/MainClassFromHomeworkLesson2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +44,11 @@
 }</component>
   <component name="RunManager" selected="Application.MainClassFromHomeworkLesson2">
     <configuration name="MainClassFromHomeworkLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2_homework.MainClassFromHomeworkLesson2" />
+      <option name="MAIN_CLASS_NAME" value="homeworkLesson2.MainClassFromHomeworkLesson2" />
       <module name="java_exceptions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2_homework.*" />
+          <option name="PATTERN" value="homeworkLesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

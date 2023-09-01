@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class MainClassFromHomeworkLesson2 {
     public static void main(String[] args) {
-        inputFlagNumberTask1();
+        inputFloatNumberTask1();
         codeFixTask2();
         codeFixTask3();
         throwExeptionEmptyStringTask4();
     }
-    private static void inputFlagNumberTask1() {
+    private static void inputFloatNumberTask1() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число в виде десятичной дроби: ");
         String number = scanner.nextLine();
@@ -18,7 +18,7 @@ public class MainClassFromHomeworkLesson2 {
             System.out.println(num);
         } catch (NumberFormatException e) {
             System.out.println("Неверный формат данных!");
-            inputFlagNumberTask1();
+            inputFloatNumberTask1();
         }
         scanner.close();
     }
