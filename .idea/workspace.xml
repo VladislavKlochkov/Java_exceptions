@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c04ef9c8-70af-4b75-baa8-7295dbf54774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ObjectNotAvailable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkLesson3/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkLesson3/MainClassFromHomeworkLesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkLesson3/MessageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkLesson3/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +46,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.MainClassFromHomeworkLesson3">
     <configuration name="MainClassFromHomeworkLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworkLesson2.MainClassFromHomeworkLesson2" />
       <module name="java_exceptions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeworkLesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassFromHomeworkLesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkLesson3.MainClassFromHomeworkLesson3" />
+      <module name="java_exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkLesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClassFromHomeworkLesson3" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.MainClassFromHomeworkLesson2" />
         <item itemvalue="Application.MainClassFromLesson2" />
@@ -117,5 +132,15 @@
       <updated>1692983725506</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
